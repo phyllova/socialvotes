@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+.snpheader {
+	background-color:#FF0;
+	padding:1%;
+	padding-bottom:8%;
+	postion:relative;
+	z-index:-1;
+}
+
+.logo {
+	display:block;
+	postion:relative;
+	margin-left:auto;
+	margin-right:auto;
+	width:70px;
+	height:40px;
+	
+}
+
+.snpbody {
+	background-color:#FFF;
+	padding:2%;
+	top:-30px;
+	position:relative;
+	border-style:outset;
+	border-top-color:#F4E30F;
+	border-top-width:thick;
+	border-radius:30px 30px 0px 0px;
+	border-bottom-color:transparent;
+	border-right-color:transparent;
+	border-left-color:transparent;
+	padding-bottom:8%;
+	
+}
+
+.snpheading {
+	font-family:Calibri,Arial,sans-serif;
+	font-size:x-large;
+	font-weight:700;
+	text-align:center;
+	padding-bottom:3%;
+}
+
+.text1 {
+	color:#999;
+	font-family:Calibri,Arial,sans-serif;
+	font-size:13.5px;
+	text-transform:uppercase;
+	letter-spacing:2px;
+	font-weight:600;
+/*	margin-left:500px;	*/
+	
+}
+
+.inputalignment {
+	text-align:center;
+	padding-left:3%;
+/*	margin-left:500px;	*/
+	
+}
+
+.inputfield {
+	width:300px;
+	border-top-color:transparent;
+	border-right-color:transparent;
+	border-left-color:transparent;
+	border-bottom-color: #999;
+/*	padding-left:40%;	
+	margin-left:500px;	*/
+
+}
+
+
+.snpbutton {
+  	background-color:#4BB6EF; 
+  	border: none;
+  	border-radius:50px;
+  	color: white;
+	height:50px;
+	width:200px;
+  	font-size: 16px;
+  	-webkit-transition-duration: 0.4s; /* Safari */
+  	transition-duration: 0.4s;
+  	cursor: pointer;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+.snpbutton1:hover {
+  	background-color:#00D7D7;
+  	color: white;
+}
+
+.text2 {
+	font-family:Calibri,Arial,sans-serif;
+	font-weight:600;
+	margin-left:auto;
+	text-align:center;
+	letter-spacing:1px;
+	
+}
+
+.link1 {
+	color:#00D7D7;
+}
+
+
+
